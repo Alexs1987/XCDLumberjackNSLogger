@@ -2,8 +2,8 @@
 //  Copyright (c) 2015 Cédric Luthi. All rights reserved.
 //
 
-#import <CocoaLumberjack/CocoaLumberjack.h>
-#import <NSLogger/LoggerClient.h>
+#import "CocoaLumberjack.h"
+#import "LoggerClient.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
